@@ -28,18 +28,3 @@ This project aims to predict the annual premium amount for insurance customers u
 - **Matplotlib/Seaborn**: For visualizing data distributions and relationships.
 
 
-## Model Building and Optimization
-- **Regression Models**: Implemented multiple regression algorithms including **Linear Regression**, **Ridge**, and **XGBoost** to predict premiums.
-- **Hyperparameter Tuning**: Applied **Grid Search CV** and **cross-validation** to tune hyperparameters for optimal model performance, ensuring better accuracy and generalization.
-
-## Model Evaluation
-- Achieved **R-squared (R²): 98%** and **RMSE: 1250** for the best model using XGBoost with tuned parameters.
-  
-## Tools and Techniques Used
-- **Pandas**: For data manipulation and cleaning.
-- **Scikit-learn**: For building and evaluating regression models.
-- **XGBoost**: For optimizing premium predictions.
-- **Grid Search CV**: For hyperparameter tuning.
-- **Matplotlib/Seaborn**: For visualizing data distributions and relationships.
-
-# Healthcare_InsurancePremium_Prediction_Regression
